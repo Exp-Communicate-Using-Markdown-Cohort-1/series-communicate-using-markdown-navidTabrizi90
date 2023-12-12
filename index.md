@@ -3,3 +3,6 @@
 ```
 console.log('Hello world!')
 ```
+- [ ] Java script is required
+- [x] This item is completed
+- [ ] not completed
